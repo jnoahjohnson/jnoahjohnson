@@ -1,7 +1,13 @@
 # Hello there!
-My name is Noah Johnson. I am passionate about technology and focus on full stack development. Check out some of my previous projects, skills, and interests. Feel free to reach out and I would love to connect!
+My name is Noah Johnson. I am passionate about technology and focus on full stack development. Currently I am teaching a course at Brigham Young University while finishing a Master's of Information Systems Management. Check out some of my previous projects, skills, and interests. Feel free to reach out and I would love to connect!
 
-## Previous Projects
+Some Past Experience ([LinkedIn](https://www.linkedin.com/in/jnoahjohnson))
+- BambooHR 🎍
+- Atlas Innovations 🧭
+- Pineapple Solutions (my own freelancing business) 🍍
+- Shotbox 📱
+
+## Favorite Projects
 ### [On The Water](https://onthewater.rentals) 🌊
 A fully-automated paddle board rental system.
 - React, Remix, Prisma, Tailwind, PostgreSQL, Redis, NodeJS
